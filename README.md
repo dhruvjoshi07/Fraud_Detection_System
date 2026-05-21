@@ -220,6 +220,16 @@ Multi-language support
 
 Blockchain-based transaction verification
 
+## 📌 Key Metrics Tracked
+
+- Fraud detection rate
+- False positive rate
+- Transaction approval ratio
+- Risk score distribution
+- Failed login attempts
+- Suspicious transaction frequency
+- Region-wise fraud analysis
+
 📌 Use Cases
 
 Online payments
